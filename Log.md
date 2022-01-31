@@ -7,4 +7,4 @@
 
 **Thoughts:** I am more familiar with C# and consistently add language specific things, I need to pay more attention to spelling and the like I keep making typos 
 
-**Link to work:** [Calculator App](day1/main.py)
+**Link to work:** [Python Strings](Day1/main.py)
