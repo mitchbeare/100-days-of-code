@@ -14,4 +14,4 @@
 
 **Thoughts:** Felt disheartened after missing a day, this caused me to miss more. Sometimes days might be missed due to outside influence need to know this is okay and just continue the next day. I learnt some things about how python handles data types that I did not realise intially such as it's ability to automatically assume a data type during an operation not requiring the new variable to be pre declared.
 
-**Link to work:** [Data Types](Day2)
+**Link to work:** [Data Types](Day 2)
